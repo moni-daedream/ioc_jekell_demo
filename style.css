@@ -3,3 +3,10 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+header, 
+footer,
+section{
+    border: 5%;
+    padding: 1rem;
+}
