@@ -1,7 +1,7 @@
 ---
 layout: default
 title: My First Post
-categories: ['travel', 'bali']
+categories: [trave', bali]
 ---
 
 ## Adventures in Bali

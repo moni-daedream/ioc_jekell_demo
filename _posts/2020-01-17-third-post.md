@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Third Post
-categories: ['self care', 'bali']
+categories: [self care, bali]
 ---
 
 ## Adventures in Bali

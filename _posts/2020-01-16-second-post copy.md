@@ -1,7 +1,7 @@
 ---
 layout: default
 title: My Second Post
-categories: ['travel', 'australia']
+categories: [travel, australia]
 ---
 
 ## Adventures in Bali
