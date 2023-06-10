@@ -1,7 +1,10 @@
 ---
 layout: post
 title: My Second Post
+description: Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+author: Jake
 categories: [travel, australia]
+featured_image: https://source.unsplash.com/Jyg7xHRmXiU
 ---
 
 ## Adventures in Bali

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: My First Post
+description: Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+author: Mitch
 categories: [trave', bali]
+featured_image: https://source.unsplash.com/UoqAR2pOxMo
 ---
 
 ## Adventures in Bali
