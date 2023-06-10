@@ -1,11 +1,11 @@
 ---
 layout: post
-title: My third post 
+title: My fifth post 
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur
-author: Catherine
+author: Tina
 featured: true
-categories: [self care, travel]
-featured_image: https://source.unsplash.com/random?sig=5
+categories: [travel]
+featured_image: https://source.unsplash.com/random?sig=3
 seo: 
     title: 
     description: 
